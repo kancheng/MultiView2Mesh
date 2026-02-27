@@ -26,6 +26,7 @@ B. 3D GenAI Training
 B1: Zero123 Multi-view Generation
 - 1 handbag image → 8–12 views
 - Analyze model limitations
+  - Code & report guide: see `B1_Zero123_MultiView/README.md`
 
 B2: Zero123 → TripoSR → Mesh
 - Reconstruct mesh

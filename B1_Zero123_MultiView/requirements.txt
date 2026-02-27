@@ -1,0 +1,25 @@
+# =========================
+# Zero123 (Diffusers) Stable Setup
+# Python 3.12 compatible
+# =========================
+
+# --- Torch (GPU 版請另外先安裝對應 CUDA wheel) ---
+torch
+torchvision
+
+# --- Diffusion ---
+diffusers
+transformers
+accelerate
+safetensors
+
+# --- Performance (可選，裝不起來可以刪掉)
+xformers
+
+# --- Image ---
+pillow
+opencv-python
+
+# --- Utilities ---
+tqdm
+notebook
