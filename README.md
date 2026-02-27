@@ -9,6 +9,8 @@ A1: SAM Segmentation Demo
 - Use SAM
 - Submit: original, masks, overlay
 - Write 300–500 word analysis
+  - Report: see `A1_SAM_Segmentation_Demo/README.md`
+
 
 A2: Multi-view Segmentation
 - 3 different angles
